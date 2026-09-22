@@ -12,11 +12,8 @@ class _MyWidgetState extends State<MyWidget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text("yaseen")),
-<<<<<<< HEAD
+
       body: Container(child: Text("How")),
-=======
-      body: Container(),
->>>>>>> f5250b49975c84c02c0776788ddf3b3eb1d3515c
     );
   }
 }
