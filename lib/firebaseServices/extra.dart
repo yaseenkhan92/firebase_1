@@ -11,7 +11,7 @@ class _MyWidgetState extends State<MyWidget> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("yaseen")),
+      appBar: AppBar(title: Text("yaseen khan")),
 
       body: Container(child: Text("How")),
     );
