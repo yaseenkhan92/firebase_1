@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # firebase_1
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# firebase_1
+>>>>>>> aac7cc651d27d7328c0b839a2a1e2b2b2bb0a70c
